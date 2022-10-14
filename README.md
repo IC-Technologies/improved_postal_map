@@ -1,5 +1,5 @@
-# ocrp_postal_map
-Server side postal and minimap! Fixed as of 9/21/2022.
+# improved_postal_map
+Server side postal and minimap! Fixed as of 10/14/2022.
 
 ORIGINAL SCRIPT AND MAP CREDITS GO TO [OCRP](https://github.com/ocrp)! I, [Nick Reagan](https://github.com/NickReagan), has simply fixed and attempting to maintain it.
 
@@ -7,9 +7,13 @@ ORIGINAL SCRIPT AND MAP CREDITS GO TO [OCRP](https://github.com/ocrp)! I, [Nick 
 
 Installation;
 
-Drag and drop into resources.
+Download from github.
 
-Add 'start OCRP_postal_map' to server.cfg
+Extract files.
+
+Drag and drop "postal_map" into resources.
+
+Add 'start postal_map' to server.cfg
 
 Start your server.
 
