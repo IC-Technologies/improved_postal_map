@@ -1,5 +1,5 @@
 # improved_postal_map
-Server side postal and minimap! Fixed as of 10/14/2022.
+Server side postal code map and minimap! Fixed as of 10/14/2022.
 
 ORIGINAL SCRIPT AND MAP CREDITS GO TO [OCRP](https://github.com/ocrp)! I, [Nick Reagan](https://github.com/NickReagan), has simply fixed and attempting to maintain it.
 
@@ -20,6 +20,7 @@ Start your server.
 Enjoy!
 
 Exports;
+
 Very simply code simply added due to a suggestion. (ocrp#6)
 
 'hideminimap'
