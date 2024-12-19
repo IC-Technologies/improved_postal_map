@@ -1,5 +1,6 @@
 # improved_postal_map
 Server side postal code map and minimap! Fixed as of 10/14/2022.
+Added Ultrawide Monitor Support 12/19/2024
 
 ORIGINAL SCRIPT AND MAP CREDITS GO TO [OCRP](https://github.com/ocrp)! I, [Nick Reagan](https://github.com/NickReagan), has simply fixed and attempting to maintain it.
 
